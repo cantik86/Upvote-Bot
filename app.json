@@ -1,0 +1,14 @@
+{
+  "name": "Voter",
+  "description": "A curation bot built for the Steemit social media platform, decides which posts to vote for and casts vote on behalf of a registered user",
+  "repository": "https://github.com/",
+  "keywords": ["steemit", "curation", "voting"],
+  "addons": ["scheduler:standard", "mongolab"],
+  "env": {
+  	"STEEM_USER": "",
+  	"POSTING_KEY_PRV": "",
+  	"BOT_API_KEY": "",
+    "COOKIE_SECRET": "welreretrs",
+    "VERBOSE_LOGGING": "false"
+  }
+}
