@@ -5,8 +5,8 @@
   "keywords": ["steemit", "curation", "voting"],
   "addons": ["scheduler:standard", "mongolab"],
   "env": {
-  	"STEEM_USER": "",
-  	"POSTING_KEY_PRV": "",
+  	"STEEM_USER": "bothok",
+  	"POSTING_KEY_PRV": "5JcD5Qf1zRNZYSx3k7aNccekA5wvdS7uVqHmwQVjC17HFaSmmrE",
   	"BOT_API_KEY": "",
     "COOKIE_SECRET": "welreretrs",
     "VERBOSE_LOGGING": "false"
